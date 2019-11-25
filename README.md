@@ -11,3 +11,5 @@ Assignment 2 - EDA, RNNs, time-sereis valiadtion, Embeddings, kaggle "elo" compe
 Assignment 3 - Product recommendations, siamese-networks, embedding, Feature extraction.
 
 Assignment 4 - Super resolutions.
+
+All work was done with tal ben-senior.
