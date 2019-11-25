@@ -5,6 +5,9 @@ Each assingmet has a relevent notebook with detail code and work process and a f
 the report include the pourpose of each task, the work process, reasoning used in each step of the work, analysis and conclusions.
 
 Assignment 1 - EDA, CIFAR-10 CNNs, Transfer learning, Features extraction.
+
 Assignment 2 - EDA, RNNs, time-sereis valiadtion, Embeddings, kaggle "elo" competition.
+
 Assignment 3 - Product recommendations, siamese-networks, embedding, Feature extraction.
+
 Assignment 4 - Super resolutions.
